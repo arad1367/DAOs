@@ -103,6 +103,3 @@ The evaluation compares **base GPT-4o** vs the **fine-tuned DAO model** across t
 - Email: pejman.ebrahimi77@gmail.com
 
 * Feel free to reach out for collaboration, questions, or extensions to other DAO ecosystems.
-
-```bash
-pip install openai pandas matplotlib seaborn scikit-learn rouge-score bert-score nltk
